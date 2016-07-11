@@ -28,4 +28,4 @@ def faculty():
 ''' >> local variables can be accessed only inside the function in which
 they are declared, whereas global variables can be accessed throughout 
 the program body by all functions. Global variable could be defined inside the 
-function for example using reversed word 'global' '''
+function for example using reserved word 'global' '''
